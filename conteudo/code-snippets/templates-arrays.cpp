@@ -2,7 +2,8 @@
 
 using namespace std;
 
-template<typename T> void trocar(T& a, T& b )
+template<typename T>
+void trocar(T& a, T& b )
 {
     T aux;
     aux = a;

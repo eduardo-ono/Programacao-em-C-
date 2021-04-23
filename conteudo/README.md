@@ -1,12 +1,12 @@
 ### Programação em C++
 
-# Templates
+# Conteúdo
 
 Prof. Eduardo Ono
 
 <br>
 
-## Conteúdo
+## Tópicos
 
   * ### [Vetores (Arrays)](./arrays/README.md)
 

@@ -37,7 +37,7 @@ Prof. Eduardo Ono
 
   * ### O vetor dinâmico é alocado no "heap"
 
-  > Diferentemente de um vetor estático, um vetor dinâmico é alocado no "heap" da memória, não sendo eliminado após o término de uma função na qual foi criado.
+  > Diferentemente de um vetor estático, um vetor dinâmico é alocado no "heap" da memória, não sendo eliminado após o término de uma função onde foi criado.
 
 ```cpp
 int* criarVetor1(const int N)
