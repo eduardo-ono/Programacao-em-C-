@@ -51,10 +51,10 @@ int main()
     std::cin >> n;
     v = criarVetor1(n); // ERRO! Segmentation fault...
     imprimirVetor(v, n);
-    delete[]v;
+    delete[] v;
     v = criarVetor2(n); // OK
     imprimirVetor(v, n);
-    delete[]v;
+    delete[] v;
     v = NULL;
 
     return 0;
